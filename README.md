@@ -18,9 +18,10 @@ pip install numpy pandas scikit-learn
 ### Installation
 1. Clone this GitHub repository:
    git clone https://github.com/your-username/Titanic-Machine-Learning-Disaster.git
+
    cd Titanic-Machine-Learning-Disaster
 
-2. Download the Titanic dataset files train.csv and test.csv and place them in the root directory of the project.
+3. Download the Titanic dataset files train.csv and test.csv and place them in the root directory of the project.
 
 ### Usage
 To run the script and generate predictions, execute the following command:
